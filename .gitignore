@@ -11,3 +11,10 @@
 
 # Python
 .venv/
+
+# Chroma vector database
+chroma_db_/
+chroma_db/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

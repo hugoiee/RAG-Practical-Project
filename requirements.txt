@@ -1,0 +1,23 @@
+# LangChain相关引用
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# 向量数据库
+chromadb
+
+# tiktok计数
+tiktoken
+
+# 环境库
+python-dotenv
+
+# Qwen相关库
+langchain-qwq
+dashscope
+
+# jupyterlab相关
+jupyterlab
+notebook
+jupyterlab-language-pack-zh-CN
