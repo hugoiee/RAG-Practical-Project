@@ -4,3 +4,10 @@
 
 # LangGraph
 .langgraph_api/
+
+# IDEA
+.idea/
+.env
+
+# Python
+.venv/

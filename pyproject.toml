@@ -1,0 +1,17 @@
+[project]
+name = "rag-practical-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.4.0",
+    "jupyterlab>=4.5.1",
+    "jupyterlab-language-pack-zh-cn>=4.5.post0",
+    "langchain>=1.2.2",
+    "langchain-community>=0.4.1",
+    "langchain-qwq>=0.3.1",
+    "notebook>=7.5.1",
+    "python-dotenv>=1.2.1",
+    "tiktoken>=0.12.0",
+]
